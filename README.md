@@ -1,6 +1,6 @@
 # Curia Embedding Worker Service
 
-A standalone Node.js service that generates OpenAI embeddings for posts in real-time using PostgreSQL LISTEN/NOTIFY events.
+A standalone Node.js service that generates OpenAI embeddings for posts in real-time using PostgreSQL LISTEN/NOTIFY events!
 
 ## Overview
 
